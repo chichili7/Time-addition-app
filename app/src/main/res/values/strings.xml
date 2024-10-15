@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="datetimeplus">DateTimePlus</string>
+    <string name="time_unit">Time Unit:</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+    <string name="weeks">Weeks</string>
+    <string name="months">Months</string>
+    <string name="value_to_add">Value to Add:</string>
+    <string name="calculate">Calculate</string>
+    <string name="results">Results:</string>
+    <string name="history">History:</string>
+    <string name="clear_all">Clear All</string>
+</resources>
